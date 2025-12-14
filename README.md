@@ -1,10 +1,10 @@
-Hey 👋, I'm Anzr :)
+Hey 👋, I'm Ansar :)
 
 
 🚀 Me
 💼 I work as an Freelancer.
-💬 Ask me about Python, JS/TS,. I'd love to help!
-📫 You can reach me on Telegram, or via E-Mail
+💬 Ask me about MERN Python, Redux, JS/TS, NPM, API, SEO, TW. I'd love to help!
+📫 You can reach me on Instagram, Facebook or via E-Mail
 
 🛠️ Stack
 
